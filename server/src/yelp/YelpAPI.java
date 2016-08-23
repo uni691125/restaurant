@@ -18,10 +18,10 @@ public class YelpAPI {
 //	private static final String CONSUMER_SECRET = "YOUR_CONSUMER_SECRET";
 //	private static final String TOKEN = "YOUR_TOKEN";
 //	private static final String TOKEN_SECRET = "YOUR_TOKEN_SECRET";
-	private static final String CONSUMER_KEY = "8BigM_R2R-9Qxmnm7c-QGQ";
-	private static final String CONSUMER_SECRET = "pw0TvgbIMd5XAIg8LFgROTCJ8SI";
-	private static final String TOKEN = "aAogbuqODoQODVlYug87-1w9u8OpxCGO";
-	private static final String TOKEN_SECRET = "CwBmbx8yS-4kv34ufETntuh4IJ8";
+	private static final String CONSUMER_KEY = "AaME4NEEmzCJMJXC8AdYgg";
+	private static final String CONSUMER_SECRET = "r5O1zLStew9NfGC7lw87B6gY38w";
+	private static final String TOKEN = "WGjB-Iz-dBN8uwYR2JDbATODW4v3QF9f";
+	private static final String TOKEN_SECRET = "0xuS_3eiEBZg0a_0OLB0NkwmyXw";
 	OAuthService service;
 	Token accessToken;
 
